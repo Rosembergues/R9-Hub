@@ -1,0 +1,6 @@
+{
+  "name": "R9 HUB - Portal Corporativo",
+  "description": "Portal e intranet corporativa para acesso rápido aos sistemas, comunicados e ferramentas da equipe R9.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
